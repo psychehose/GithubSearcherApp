@@ -18,10 +18,10 @@ $ tuist generate
 
 ##### Stack
 
-	1. Tuist
-	1. ReactorKit
-	1. RxSwift, RxCocoa
-	1. Alamofire
+1. Tuist
+2. ReactorKit
+3. RxSwift, RxCocoa
+4. Alamofire
 
 ##### Practicing
 
